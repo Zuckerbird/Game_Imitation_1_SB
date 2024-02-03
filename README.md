@@ -1,14 +1,13 @@
-# Game_Imitation_1_SB
+#API Hacking app
 
-・ゲームエンジン
-Godot Engine
-https://godotengine.org/
+#ハッキング対象
+レストランの偽ページ
 
-・フロントエンド
-Typescript
+#サーバーサイド
+奥村
 
-・サーバーサイド
-Java
+#フロント
+西﨑
 
-・AI サイド
-Python
+#隠しページ　各自
+裏メニューを載せた予約ページ
