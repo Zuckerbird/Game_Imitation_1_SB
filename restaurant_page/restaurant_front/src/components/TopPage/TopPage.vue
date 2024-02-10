@@ -1,0 +1,7 @@
+<template>
+  <div>
+    <button @click="sendGetRequest">GETリクエストを送信する</button>
+    <p v-if="response">{{ response }}</p>
+  </div>
+</template>
+<script src="./TopPage.ts"></script>
